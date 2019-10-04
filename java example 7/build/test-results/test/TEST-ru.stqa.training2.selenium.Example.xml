@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.stqa.training2.selenium.Example" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-04T14:35:24" hostname="G-SHAREEVA" time="39.013">
+  <properties/>
+  <testcase name="checkStickers" classname="ru.stqa.training2.selenium.Example" time="39.013"/>
+  <system-out><![CDATA[Категория товаров: box most popular
+стикер один
+стикер один
+стикер один
+стикер один
+стикер один
+Категория товаров: box campaigns
+стикер один
+Категория товаров: box latest products
+стикер один
+стикер один
+стикер один
+стикер один
+стикер один
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 76.0.3809.126 (d80a294506b4c9d18015e755cee48f953ddc3f2f-refs/branch-heads/3809@{#1024}) on port 35660
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+окт 04, 2019 5:35:25 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Attempting bi-dialect session, assuming Postel's Law holds true on the remote end
+[1570199728.116][WARNING]: This version of ChromeDriver has not been tested with Chrome version 77.
+окт 04, 2019 5:35:31 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Falling back to original OSS JSON Wire Protocol.
+[1570199733.812][WARNING]: This version of ChromeDriver has not been tested with Chrome version 77.
+окт 04, 2019 5:35:38 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+</testsuite>
